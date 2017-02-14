@@ -11,3 +11,5 @@ A webapp to help students get together and work on projects.
 
 ## Contributing
 John Fernandes
+
+![img](/res/screenshot.png)
